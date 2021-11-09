@@ -1,2 +1,2 @@
-# amazonwebscrapping
-Generate periodic price checking for amazon product
+# Web Scrapping practices
+Practicing different Web scraping methods
